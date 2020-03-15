@@ -11,6 +11,18 @@ of open science.
 **Author:** Pierre de Buyl  
 **Licence:** [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
-Contents:
+
+You can run the notebooks online by clicking the "launch binder" button.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdebuyl/coronavirus_notebooks/master)
+
+## Status
+
+I started to test the SEIR model on march 9 and for a few days the model
+matched well. Then, either due to the model not being adequate or the data
+being completely off, the match became less consistent. The plain lin-log plot
+of the number of cases still illustrates the exponential growth.
+
+## Contents
 
 [01-initial-oubreak-seir-model](01-initial-oubreak-seir-model.ipynb)
