@@ -1,0 +1,11 @@
+LICENSE
+
+The notebooks are licensed under the
+[CC-BY](https://creativecommons.org/licenses/by/4.0/) license
+
+The data in the directory "data" are downloaded from the website of Sciensano
+https://epistat.wiv-isp.be/covid/ . To the best of my knowledge there is no
+license information from Sciensano. The data being available publicly from a
+public service, I assume they belong to the public domain.
+
+
