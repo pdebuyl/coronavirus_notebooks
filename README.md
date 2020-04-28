@@ -25,4 +25,6 @@ of the number of cases still illustrates the exponential growth.
 
 ## Contents
 
-[01-initial-oubreak-seir-model](01-initial-oubreak-seir-model.ipynb)
+- [01-initial-oubreak-seir-model](01-initial-oubreak-seir-model.ipynb)
+- [03-sciensano-data-overview.ipynb](03-sciensano-data-overview.ipynb)
+
